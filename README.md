@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Junior19Camargo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  🙋‍♂️ Olá meu nome é Junior Camargo
+  👨‍⚖️ sou Professor no colégio EE DIÓGENES RIBEIRO DE LIMA
+  📓📒 Leciono as diciplinas Matemática,Tecnologia,Itinerários,Eletivas e Orientação de Estudos
+  
+  
 
 <!---
 Junior19Camargo/Junior19Camargo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
